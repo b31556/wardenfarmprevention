@@ -66,8 +66,7 @@ Currently, the plugin works automatically without any commands or special permis
 ## Support
 
 If you encounter any issues or have suggestions:
-- Open an issue on [GitHub](https://github.com/yourusername/warden-farm-preventer/issues)
-- Join our [Discord Server](https://discord.gg/yourinvite) (if applicable)
+- Open an issue on [GitHub](https://github.com/b31556/wardenfarmprevention/issues)
 
 ## License
 
