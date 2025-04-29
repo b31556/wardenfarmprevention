@@ -1,0 +1,5 @@
+# WardenFarmPreventer Plugin Configuration
+search-radius: 50  # Sugár, amelyen belül új pozíciót keres (blokkokban)
+min-y: -64        # Minimum Y koordináta az új pozícióhoz
+max-y: 0          # Maximum Y koordináta az új pozícióhoz
+max-attempts: 20  # Maximum próbálkozások száma egy új pozíció megtalálására

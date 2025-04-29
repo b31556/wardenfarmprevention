@@ -1,0 +1,4 @@
+name: WardenFarmPreventer
+version: '${version}'
+main: ho.golyo.wardenfarmpreventer.WardenFarmPreventer
+api-version: '1.21'
